@@ -1,1 +1,4 @@
-print("HI")
+def main():
+    print("Hi")
+
+main()
